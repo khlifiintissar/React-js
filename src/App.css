@@ -1,5 +1,28 @@
 .App {
   text-align: center;
+  background-color:rgb(236, 236, 85);
+  width: 100%;
+  height: 950px;
+}
+.back{
+  background-image:url(nature-3289812_960_720.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 90%;
+  height: 70%;
+  margin: 50px auto;
+  color:yellow;
+  font-size: large;
+  font-family:cursive;
+}
+h1,h2{color:green;
+      font-family:cursive;
+    }
+form{
+text-align:left;
+width: 70%;
+margin-left: 125px;
 }
 
 .App-logo {
